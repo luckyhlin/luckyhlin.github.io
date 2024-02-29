@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Hi, welcome to my site! 
+# Hi, welcome to my site!!
 
 ## This is a demo for the workshop~
 
